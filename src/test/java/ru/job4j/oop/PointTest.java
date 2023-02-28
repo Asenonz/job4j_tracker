@@ -41,7 +41,7 @@ public class PointTest {
     }
 
     @Test
-    public void when333to339then3() {
+    public void when333to339then6() {
         double expected = 6;
         Point a = new Point(3, 3, 3);
         Point b = new Point(3, 3, 9);
